@@ -2,3 +2,4 @@
 new another message
 online change
 this is branch01
+coflict message
